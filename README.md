@@ -1,10 +1,12 @@
 ### Hi there 👋, my name is Cristhian Leal
-#### I am Electronic Engenier, Full stack student
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+#### I am Electronic Engenier and Full stack developer.
 
-Skills: JS / HTML / CSS / Python
+Somo of my skills are:
 
-- 🔭 I’m currently working on this page. 
+-Programming Languages and tools: JavaScript, Python, C, Powershell, HTML, CSS, Git, Postman.
+-Libraries, environments and Frameworks : React.js, Bootstrap, Node.js, Express.js, Django, Flask, Jquery
+-Databases: SQLite, MongoDb, Google BigQuery
+
 
 
 
