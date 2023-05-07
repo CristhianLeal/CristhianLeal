@@ -3,8 +3,8 @@
 
 Somo of my skills are:
 
--Programming Languages and tools: JavaScript, Python, C, Powershell, HTML, CSS, Git, Postman.
--Libraries, environments and Frameworks : React.js, Bootstrap, Node.js, Express.js, Django, Flask, Jquery.
+-Programming Languages and tools: JavaScript, Python, C, Powershell, HTML, CSS, Git, Postman. /n
+-Libraries, environments and Frameworks : React.js, Bootstrap, Node.js, Express.js, Django, Flask, Jquery. /n
 -Databases: SQLite, MongoDb, Google BigQuery
 
 
